@@ -44,3 +44,10 @@ Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This cou
 - props.children and prototypes
 - Testing React apps
 - End to end testing
+
+## [Part 6 - Advanced state management](https://fullstackopen.com/en/part6)
+
+- Flux-architecture and Redux
+- Many reducers
+- Communicating with server in redux application
+- React Query, useReducer and context
